@@ -18,7 +18,6 @@ INDEX VERSION 1.132+C:\Users\janani\Desktop\springirc\.metadata\.plugins\org.ecl
 1945310049.index
 1060709690.index
 3473032136.index
-1351100565.index
 1124984328.index
 1643867454.index
 3555632663.index
