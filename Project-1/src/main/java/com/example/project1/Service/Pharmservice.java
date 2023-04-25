@@ -8,7 +8,6 @@ import org.springframework.stereotype.Service;
 import com.example.project1.Pharmacymodel.Pharmclass;
 import com.example.project1.Repository.PharmRepository;
 
-
 @Service
 public class Pharmservice {
 	@Autowired
